@@ -37,8 +37,6 @@ from finverse_sdk import FinverseClient
 # Initialize the client
 client = FinverseClient(api_key="your-api-key")
 
-# Use the SDK
-# (Add your usage examples here)
 ```
 
 ## Requirements
